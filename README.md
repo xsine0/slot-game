@@ -6,7 +6,7 @@ There is no local storage or form submit, if you refresh the page all inputs are
 You need to provide a username.  
 This username will no be saved, if you refresh the page you are promted to enter a username again
 
-<img width="263" height="181" alt="image" src="https://github.com/user-attachments/assets/6c351f83-ebf9-4c47-9529-02e2e1e6d1ab" />
+<img width="253" height="176" alt="image" src="https://github.com/user-attachments/assets/d34148f3-bb74-453d-8ba0-62d979c634ee" />
 
 ## Game
 After providing a username, you will start with 1000 coins, these coins are nothing but text.  
